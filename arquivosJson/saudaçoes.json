@@ -1,0 +1,24 @@
+{
+    "conversas": [
+        {
+            "pergunta": ["olá", "oi", "e aí"],
+            "resposta": "Olá, sou o robô educacional Nelson, estou aqui para tirar suas dúvias sobre o movimento Cinema Novo. Qual a sua dúvida?"
+        }, 
+        {
+            "pergunta": ["bom dia"],
+            "resposta": "Bom dia, sou o robô educacional Nelson, estou aqui para tirar suas dúvias sobre o movimento Cinema Novo. Qual a sua dúvida?"
+        }, 
+        {
+            "pergunta": ["boa tarde"],
+            "resposta": "Boa tarde, sou o robô educacional Nelson, estou aqui para tirar suas dúvias sobre o movimento Cinema Novo. Qual a sua dúvida?"
+        }, 
+        {
+            "pergunta": ["boa noite"],
+            "resposta": "Boa noite, sou o robô educacional Nelson, estou aqui para tirar suas dúvias sobre o movimento Cinema Novo. Qual a sua dúvida?"
+        },
+        {
+            "pergunta": ["tudo bem", "tudo certo", "tranquilo"],
+            "resposta": "sou o robô educacional Nelson, estou aqui para tirar suas dúvias sobre o movimento Cinema Novo. Qual a sua dúvida?"
+        }
+    ]
+}
